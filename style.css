@@ -1,0 +1,62 @@
+
+.signColor {
+    color: #4430D1;
+}
+
+.signUp {
+    width: 45%;
+    margin: 5% auto 0px;
+}
+
+.signUp form {
+    width: 70%;
+}
+
+.signform {
+    margin: auto;
+}
+
+
+.or {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ .or span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+
+ .btn-signup {
+    color: #fff;
+    background-color: #6451E8;
+    border-color: #6451E8; 
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+ }
+
+.btn-signup:hover, 
+.btn-signup:focus, 
+.btn-signup:active, 
+.btn-signup.active, 
+.open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #503bda;
+    border-color: #6451E8;
+}
+
+.footer-li {
+    text-decoration: none;
+    color: #000;
+}
